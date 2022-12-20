@@ -1,5 +1,5 @@
 # Frontproject
-![alt text](http://url/to/img.png)
+![alt text](/screens/France.png)
 MY RANDOM COUNTRY WAS  FRANCE
 
 My project topic is an CALCULATOR WEBSITE....... This is simple calculator which has some basic calculation operations(add,decrease,multiply,division,percentage).
